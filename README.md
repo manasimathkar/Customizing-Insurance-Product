@@ -14,21 +14,9 @@ Ensemble Machine Learning Model: Combines Random Forest and XGBoost algorithms t
 * Web Development: HTML5, CSS
 * Deployment: Docker, Heroku
 
-## Getting Started
-To run this project locally, ensure you have Docker installed and follow these steps:
-
-Clone the repository to your local machine.
-Navigate to the project directory and build the Docker container:
-```
-docker build -t life-insurance-recommender
-```
-Run the container:
-```
-docker run -p 8000:8000 life-insurance-recommender
-```
-Access the application in your web browser at http://localhost:8000.
-
-
 ## Research and Publications
 The methodology and findings of this project have been documented and published in IEEE Xplore and were presented at the 4th International Conference on Advances in Electronics, Computers and Communications (ICAECC) in 2022. For more detailed insights into the research behind this application, refer to the published papers linked in the docs directory.
+[1643031456886.pdf](https://github.com/manasimathkar/Customizing-Insurance-Product/files/14819015/1643031456886.pdf)
+
+
 
