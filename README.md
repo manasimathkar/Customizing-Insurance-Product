@@ -20,12 +20,10 @@ To run this project locally, ensure you have Docker installed and follow these s
 Clone the repository to your local machine.
 Navigate to the project directory and build the Docker container:
 ```
-bash
 docker build -t life-insurance-recommender
 ```
 Run the container:
 ```
-bash
 docker run -p 8000:8000 life-insurance-recommender
 ```
 Access the application in your web browser at http://localhost:8000.
