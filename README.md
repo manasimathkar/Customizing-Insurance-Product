@@ -1,9 +1,9 @@
 # Customizing Insurance Product Based on Customer Profile Leveraging Data Analytics
 
-##Overview
+## Overview
 This project develops a web-based application aimed at recommending life insurance products to users with high accuracy. By leveraging a refined ensemble of Random Forest and XGBoost machine learning algorithms, the system achieves an 80% accuracy rate in customizing product recommendations. Hosted on Heroku, the application provides a scalable and accessible platform for users to find life insurance products that best fit their needs.
 
-##Features
+## Features
 Ensemble Machine Learning Model: Combines Random Forest and XGBoost algorithms to analyze user data and preferences, offering highly accurate recommendations.
 User-Friendly Interface: Developed using HTML5 and CSS, ensuring a seamless and engaging user experience.
 Cloud-Based Deployment: Utilizes Heroku for hosting, ensuring easy access and scalability.
@@ -18,7 +18,7 @@ To run this project locally, ensure you have Docker installed and follow these s
 
 Clone the repository to your local machine.
 Navigate to the project directory and build the Docker container:
-'''
+```
 bash
 Copy code
 docker build -t life-insurance-recommender .
@@ -26,14 +26,10 @@ Run the container:
 bash
 Copy code
 docker run -p 8000:8000 life-insurance-recommender
+```
 Access the application in your web browser at http://localhost:8000.
-Contributions
-This project is the culmination of research and development efforts in exploring advanced machine learning techniques. Contributions, whether in the form of feedback, bug reports, or code contributions, are welcome. Please refer to the CONTRIBUTING.md file for more details.
 
-Research and Publications
+
+## Research and Publications
 The methodology and findings of this project have been documented and published in IEEE Xplore and were presented at the 4th International Conference on Advances in Electronics, Computers and Communications (ICAECC) in 2022. For more detailed insights into the research behind this application, refer to the published papers linked in the docs directory.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-'''
 
