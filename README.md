@@ -16,7 +16,8 @@ Ensemble Machine Learning Model: Combines Random Forest and XGBoost algorithms t
 
 ## Research and Publications
 The methodology and findings of this project have been documented and published in IEEE Xplore and were presented at the 4th International Conference on Advances in Electronics, Computers and Communications (ICAECC) in 2022. For more detailed insights into the research behind this application, refer to the published papers linked in the docs directory.
-[1643031456886.pdf](https://github.com/manasimathkar/Customizing-Insurance-Product/files/14819015/1643031456886.pdf)
+
+![1643031456886](https://github.com/manasimathkar/Customizing-Insurance-Product/assets/60642005/9ab0ffed-ae25-436d-abc7-bb7d2d80dc3e)
 
 
 
